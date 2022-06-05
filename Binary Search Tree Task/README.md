@@ -1,4 +1,4 @@
-#[Patika.dev](https://app.patika.dev/) Veri Yapıları ve Algoritmalar Eğitimi
+# [Patika.dev](https://app.patika.dev/) Veri Yapıları ve Algoritmalar Eğitimi
 
 ## Binary Search Tree Projesi
 
