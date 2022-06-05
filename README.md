@@ -15,8 +15,6 @@
 
  - Best Case: Dizinin sıralı olması.
 
- ---
-
  4-) Dizi sıralandıktan sonra 18 sayısı dizinin ortalarına denk geleceği için Average Case kapsamına girer. 
 
  ---
