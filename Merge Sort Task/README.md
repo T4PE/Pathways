@@ -6,6 +6,7 @@
 1-) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 - Önce dizinimizi, tek elemanlı diziler elde edinceye kadar ikiye bölüyoruz.
+
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |- |
 |Diziyi ikiye bölüyoruz.                          |  |  |  |16|21|11|8 |12|22|  |  |  |
@@ -16,7 +17,9 @@
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |                                                 |16|  |21|  |11|  |  |8 |  |12|  |22|
 
+
 - Sonra sıralı bir dizi elde edinceye kadar tek elemanlı dizilerimizi ikili şekilde birleştiriyoruz
+
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
 |----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
 |                                                |16|  |21|  |11|  |  |8 |  |12|  |22|
@@ -29,6 +32,7 @@
 
  2-) Big-O Gösterimini Yazınız
  - O(n^2)
+
 
 ---
 
